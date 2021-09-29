@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.0.0-next.4
+
+### Patch Changes
+
+- 4b9ea6f6: Use lit@2.0 stable based dependencies across the project.
+- 945d1d9c: Remove unused dependency on `mocha` as the environment should bring it.
+- Updated dependencies [4b9ea6f6]
+  - @open-wc/testing-helpers@2.0.0-next.1
+
 ## 3.0.0-next.3
 
 ### Patch Changes
