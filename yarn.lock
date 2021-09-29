@@ -4197,10 +4197,10 @@
     portfinder "^1.0.28"
     source-map "^0.7.3"
 
-"@webcomponents/scoped-custom-element-registry@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@webcomponents/scoped-custom-element-registry/-/scoped-custom-element-registry-0.0.2.tgz#c863d163cb39c60063808e5ae23e06a1766fbe5f"
-  integrity sha512-lKCoZfKoE3FHvmmj2ytaLBB8Grxp4HaxfSzaGlIZN6xXnOILfpCO0PFJkAxanefLGJWMho4kRY5PhgxWFhmSOw==
+"@webcomponents/scoped-custom-element-registry@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@webcomponents/scoped-custom-element-registry/-/scoped-custom-element-registry-0.0.3.tgz#774591a886b0b0e4914717273ba53fd8d5657522"
+  integrity sha512-lpSzgDCGbM99dytb3+J3Suo4+Bk1E13MPnWB42JK8GwxSAxFz+tC7TTv2hhDSIE2IirGNKNKCf3m08ecu6eAsQ==
 
 "@webcomponents/shadycss@^1.10.2":
   version "1.10.2"
@@ -6730,12 +6730,17 @@ destroy@^1.0.4, destroy@~1.0.4:
   resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.0.4.tgz#978857442c44749e4206613e37946205826abd80"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
 
-detab@2.0.4, detab@^2.0.0, detab@^2.0.3, detab@^2.0.4:
+detab@2.0.4, detab@^2.0.0, detab@^2.0.3:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/detab/-/detab-2.0.4.tgz#b927892069aff405fbb9a186fe97a44a92a94b43"
   integrity sha512-8zdsQA5bIkoRECvCrNKPla84lyoR7DSAyf7p0YgXzBO9PDJx8KntPUay7NS6yp+KdxdVtiE5SpHKtbp2ZQyA9g==
   dependencies:
     repeat-string "^1.5.4"
+
+detab@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/detab/-/detab-3.0.1.tgz#2f1874ccee75b96858cb5efa30d41212a8657baf"
+  integrity sha512-T8gDOoz58xXMsXKLJkKxkyUTRkEpwOBL9w5nFFDJsD/XiFkajkBc2Yz99a/0kW7DGIYq/B1+oqqqru+fZetSvg==
 
 detect-indent@^6.0.0:
   version "6.0.0"
